@@ -1,0 +1,12 @@
+[Tt]emp
+[Ll]ibrary
+[Ll]ogs
+[Oo]bj
+[Pp]ackages
+[Uu]serSettings
+*.plastic
+*.vs
+*.vsconfig
+*.csproj
+*.conf
+*.sln
